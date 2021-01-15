@@ -52,7 +52,7 @@ function App() {
     }
 
     let performSearch = (searchTerm: string): IProject[] => {
-        if (searchTerm == ""){
+        if (searchTerm === ""){
             console.log("Nothing was searched")
             return projects;
         }
