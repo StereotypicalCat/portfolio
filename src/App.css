@@ -1,0 +1,37 @@
+
+#appContainer{
+    color: #d5d1cb;
+    padding-left: 2em;
+}
+
+#appContainer h1{
+    display: inline-block;
+    margin-right: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#search{
+    margin-top: 0;
+    padding-top: 4em;
+    margin-right: 2em;
+}
+
+
+#projectsContainer{
+    margin: 20px;
+}
+
+#appContainer img{
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+}
+
+#appContainer .MuiCard-root{
+    box-shadow: 0 .5em 1em -.125em rgba(10,10,10,.4),0 0 0 1px rgba(10,10,10,.08);
+}
+
+#appContainer a:visited{
+    color: rgb(67, 173, 255);
+}
