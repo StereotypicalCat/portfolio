@@ -1,3 +1,8 @@
+# Portfolio
+
+This is the source code of my portfolio page located at https://lucaswinther.info
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
