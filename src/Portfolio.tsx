@@ -25,9 +25,9 @@ function Portfolio() {
                             passion for development.
                         </p>
                         <div id={"icons"}>
-                            <a href={"LINK"}><FontAwesomeIcon icon={faLinkedin} /></a>
-                            <a href={"LINK"}><FontAwesomeIcon icon={faEnvelope} /></a>
-                            <a href={"LINk"}><FontAwesomeIcon icon={faGithub} /></a>
+                            <a href={"https://www.linkedin.com/in/lucas-winther/"}><FontAwesomeIcon icon={faLinkedin} /></a>
+                            <a href={"mailto:lucas@lucaswinther.info"}><FontAwesomeIcon icon={faEnvelope} /></a>
+                            <a href={"https://github.com/StereotypicalCat"}><FontAwesomeIcon icon={faGithub} /></a>
                         </div>
                     </header>
                 </Grid>
