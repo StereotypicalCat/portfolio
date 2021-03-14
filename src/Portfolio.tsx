@@ -37,8 +37,8 @@ function Portfolio() {
                 <Grid item xs={7} id={"appContainer"}>
                     <App />
                 </Grid>
-
             </Grid>
+            <noscript><img src="https://websiteanalytics.herokuapp.com/ingress/34f15484-8d83-4381-a829-c4cf4ac7e32b/pixel.gif"/></noscript> <script src="https://websiteanalytics.herokuapp.com/ingress/34f15484-8d83-4381-a829-c4cf4ac7e32b/script.js" />
         </div>
     )
 
