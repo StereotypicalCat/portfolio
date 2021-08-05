@@ -2,7 +2,7 @@ import './Portfolio.css'
 import {Grid} from "@material-ui/core";
 import {faGithub, faLinkedin} from "@fortawesome/free-brands-svg-icons";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faEnvelope} from "@fortawesome/free-solid-svg-icons";
+import {faEnvelope, faEdit} from "@fortawesome/free-solid-svg-icons";
 import App from "./App";
 import {Helmet} from "react-helmet";
 
@@ -28,6 +28,7 @@ function Portfolio() {
                             <a href={"https://www.linkedin.com/in/lucas-winther/"}><FontAwesomeIcon icon={faLinkedin} /></a>
                             <a href={"mailto:lucas@lucaswinther.info"}><FontAwesomeIcon icon={faEnvelope} /></a>
                             <a href={"https://github.com/StereotypicalCat"}><FontAwesomeIcon icon={faGithub} /></a>
+                            <a href={"https://blog.lucaswinther.info"}><FontAwesomeIcon icon={faEdit} /></a>
                         </div>
                     </header>
                 </Grid>
