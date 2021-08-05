@@ -35,3 +35,9 @@
 #appContainer a:visited{
     color: rgb(67, 173, 255);
 }
+
+@media only screen and (max-width: 600px) {
+    #projectsContainer{
+        margin: 10px 5px 30px 5px;
+    }
+}

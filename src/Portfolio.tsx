@@ -16,7 +16,7 @@ function Portfolio() {
                 <title>Lucas Winther Portfolio</title>
             </Helmet>
             <Grid container spacing={0}>
-                <Grid item xs={5} id={"headerContainer"}>
+                <Grid item xs={12} sm={5} id={"headerContainer"}>
                     <header>
                         <img alt={"Lucas Winther"} src='images/avatar.png' />
                         <p>
@@ -35,7 +35,7 @@ function Portfolio() {
                 {/* I dont know why this grid is needed, but the first grid apparently doesn't register correctly.*/}
                 <Grid item xs={5}>
                 </Grid>
-                <Grid item xs={7} id={"appContainer"}>
+                <Grid item xs={12} sm={7} id={"appContainer"}>
                     <App />
                 </Grid>
             </Grid>
