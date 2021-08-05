@@ -2,10 +2,28 @@
 
 This is the source code of my portfolio page located at https://lucaswinther.info
 
+## info.json
+
+The portfolio projects are loaded dynamically via a info.json file stored at the server. The file stores projects in this format:
+exame:
+
+      "vr-classroom": {
+        "renderOrder": 4,
+        "title": "VR-Classroom",
+        "description": "A prototype website where you can register yourself, and then create + sign up for classes",
+        "tags": ["javascript", "node.js"],
+        "github": "https://github.com/StereotypicalCat/vr-classroom-website-api",
+        "academics": "https://lucaswinther.info/other/Vr-Classroom-Report.pdf",
+        "livedemo": "https://www.youtube.com/watch?v=sV9yc5q_ARE"
+      }
+
+Since these are loaded dynamically, you have to mount every file you want the projects page to show.
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
