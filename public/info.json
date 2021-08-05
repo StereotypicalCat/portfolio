@@ -1,34 +1,3 @@
 {
-  "budget": {
-    "renderOrder": 1,
-    "title": "Monthly Expenses Tracker",
-    "description": "A table program to add monthly expenses, and keep an overview of their monthly costs in dkk.",
-    "tags": ["javascript", "webapp"],
-    "github": "google.com",
-    "livedemo": "https://lucaswinther.info/monthlyexpenses/index.html"
-  },
-  "mr-rowing":{
-    "renderOrder": 2,
-    "title": "Mixed-Reality Rowing Game",
-    "description": "A fun rowing game for two people, that uses an arduino and two real oar's to be played",
-    "tags": ["unity", "arduino", "C#"],
-    "github": "https://github.com/StereotypicalCat/XR-Rowing-Game"
-  },
-  "chessswap":{
-    "renderOrder": 3,
-    "title": "Chessswap",
-    "description": "Multiplayer chess, where the chess board swaps every 3 turns. Set a trap for your opponent, and win",
-    "tags": ["react", "webapp"],
-    "github": "https://github.com/StereotypicalCat/ChessSwap",
-    "livedemo": "https://chessswap.lucaswinther.info/"
-  },
-  "vr-classroom": {
-    "renderOrder": 4,
-    "title": "VR-Classroom",
-    "description": "A prototype website where you can register yourself, and then create + sign up for classes",
-    "tags": ["javascript", "node.js"],
-    "github": "https://github.com/StereotypicalCat/vr-classroom-website-api",
-    "academics": "https://lucaswinther.info/other/Vr-Classroom-Report.pdf",
-    "livedemo": "https://www.youtube.com/watch?v=sV9yc5q_ARE"
-  }
+
 }
