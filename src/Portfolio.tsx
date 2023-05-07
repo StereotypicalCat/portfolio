@@ -20,8 +20,8 @@ function Portfolio() {
                     <header>
                         <img alt={"Lucas Winther"} src='images/avatar.png' />
                         <p>
-                            <strong>My name is Lucas</strong>, a student <br />
-                            at Aarhus University with <br />
+                            <strong>My name is Lucas</strong>, a <br />
+                            Computer Scientist with <br />
                             passion for development.
                         </p>
                         <div id={"icons"}>
